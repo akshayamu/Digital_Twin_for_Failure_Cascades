@@ -135,6 +135,10 @@ Digital_Twin_for_Failure_Cascades/
 
 
 ---
+## Build Notes
+
+A detailed build log covering design decisions, failures, corrections,
+and lessons learned is available in [`BUILD_LOG.md`](BUILD_LOG.md).
 
 ## How to Run
 
